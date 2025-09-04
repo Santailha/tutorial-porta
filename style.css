@@ -12,7 +12,7 @@
 
 body {
     font-family: 'manrope';
-    font-weight: 200;
+    font-weight: bold;
     background-color: #3d357e;
     color: #333;
     min-height: 100vh;
@@ -166,3 +166,4 @@ main {
         max-width: 120px;
     }
 }
+
